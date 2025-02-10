@@ -10,8 +10,7 @@
 
 [Tækniskólinn](#)
 
-![Tækniskólinn](![image](https://github.com/user-attachments/assets/a892479b-ed81-4545-860d-7b2f3eacf486)
-)
+![Tækniskólinn](download.jpg)
 
 > Dolor tempor velit excepteur ut nostrud est excepteur fugiat fugiat voluptate duis cupidatat elit. Nulla aliquip aute consequat quis elit consequat ullamco excepteur officia.
 
