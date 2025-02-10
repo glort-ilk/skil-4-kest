@@ -14,8 +14,7 @@
 
 > Dolor tempor velit excepteur ut nostrud est excepteur fugiat fugiat voluptate duis cupidatat elit. Nulla aliquip aute consequat quis elit consequat ullamco excepteur officia.
 
-([![Watch the video](https://img.youtube.com/vi/VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=VIDEO_ID)
-)
+[![Watch the video](https://img.youtube.com/vi/HUBNt18RFbo/0.jpg)](https://www.youtube.com/watch?v=HUBNt18RFbo)
 
 ## Aliquip sunt laboris et esse nostrud.
 
