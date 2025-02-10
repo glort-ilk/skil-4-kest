@@ -14,7 +14,7 @@
 
 > Dolor tempor velit excepteur ut nostrud est excepteur fugiat fugiat voluptate duis cupidatat elit. Nulla aliquip aute consequat quis elit consequat ullamco excepteur officia.
 
-![Markdown Crash Course](myndband-af-youtube.jpg)
+![Markdown Crash Course]([myndband-af-youtube.jpg](https://www.youtube.com/watch?v=HUBNt18RFbo))
 
 ## Aliquip sunt laboris et esse nostrud.
 
